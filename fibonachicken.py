@@ -2,4 +2,4 @@
 
 
 num = int(input("Enter a natual number: ")) #ex. num : 5
-print("A golden ratio of {} is {}".format(num, get_golden_ratio(num)))
+print("A golden ratio of {} is {}".format(num, get_golden_ratio(num))) #result: 3
